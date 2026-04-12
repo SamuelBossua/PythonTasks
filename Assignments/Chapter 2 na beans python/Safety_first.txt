@@ -1,0 +1,10 @@
+ 2. Algorithm for crossing a road safely
+
+1. Go to the edge of the road.
+2. Look left, right, and left again.
+3. If there are cars coming, then wait; otherwise, go to step 5** *(this is the conditional step)*.
+4. Keep checking for traffic until no cars are coming** *(this is the loop)*.
+5. Walk straight across the road.
+6. Stay alert while crossing.
+7. Reach the other side safely.
+

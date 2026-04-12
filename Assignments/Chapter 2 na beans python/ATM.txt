@@ -1,0 +1,15 @@
+Insert ATM card.
+Enter PIN.
+System checks if the PIN is correct.
+If the PIN is incorrect, show an error and stop.
+If correct, choose “Withdraw Cash.”
+Enter the amount to withdraw.
+System checks if there is enough money in the account.
+If not enough money, show an error message.
+If enough money, continue.
+System checks if the ATM has enough cash.
+If not, show a message.
+If yes, dispense the cash.
+Update account balance.
+Print receipt (optional).
+Eject card.
